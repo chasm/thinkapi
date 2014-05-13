@@ -1,0 +1,25 @@
+<table class="table table-striped table-bordered">
+  <caption>Routes</caption>
+  <thead>
+    <tr>
+      <th>Method</th>
+      <th>Path</th>
+      <th>Source</th>
+      <th>Pattern</th>
+      <th>Keys</th>
+      <th>Conditions</th>
+    </tr>
+  </thead>
+  <tbody>
+    <% @out.each do |r| %>
+      <tr>
+        <td><%= r[:verb] %></td>
+        <td><%= r[:path] %></td>
+        <td><%= r[:file] %>:<%= r[:line] %></td>
+        <td><%= r[:pattern] %></td>
+        <td><%= r[:keys] %></td>
+        <td><%= r[:conditions] %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>

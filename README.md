@@ -1,4 +1,4 @@
-thinkapi
-========
+Thinkapi
+=========
 
-sinatra rethinkdb api
+sinatra mongo api

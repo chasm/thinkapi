@@ -1,0 +1,130 @@
+4aefc7d024837e4a947fa978d621b4f019aeda1d		branch '0.3.x' of git://github.com/sinatra/sinatra
+28a8c9f9d12dbb08a11a74a71161a51fc0d361c8		branch '0.9.x' of git://github.com/sinatra/sinatra
+b67573fe6792291f169b526d6d193107d6632758		branch '1.0.x' of git://github.com/sinatra/sinatra
+3a8642361b0d11e1685d257cd200c42af1cef5d0		branch '1.1.x' of git://github.com/sinatra/sinatra
+e3ae005851986b2dba44e4bb6419e7b8c50c2063		branch '1.2.x' of git://github.com/sinatra/sinatra
+fb1136ea3e015c2ac2790bd5abf3b1510cce51d2		branch '1.3.x' of git://github.com/sinatra/sinatra
+77629891d0858a3d470a6b395c7c4136bf7d1f24		branch 'edge-dependencies' of git://github.com/sinatra/sinatra
+367cb3ca30810d2a05e166e174716eb9ed8bb64e		branch 'extend-main' of git://github.com/sinatra/sinatra
+f7dfcb35a5c859e7e297f1c48085ca7e25d65d11		branch 'master' of git://github.com/sinatra/sinatra
+ff3bc9d310e32cc59b5da922cef3380a4fb530a9		branch 'mizuno' of git://github.com/sinatra/sinatra
+46a6c17788c3adb0c7f2c0149c05f630e0132b44		branch 'multi-verb' of git://github.com/sinatra/sinatra
+f092e5ad599951215ba9a10d3252b53ef33b2adf		branch 'performance' of git://github.com/sinatra/sinatra
+a88b8b64b08ff2da7651bb5abcb15669ee10e9a7		branch 'prerelease' of git://github.com/sinatra/sinatra
+2bfb296fdec2d667924f7e8d5c317e9487a8a1b3		branch 'stylus' of git://github.com/sinatra/sinatra
+ca0e34eb82d6769b137268ec6c5e0d2b80b6880f		branch 'toc' of git://github.com/sinatra/sinatra
+567d0393237eed08cd862b946da19e12345d73dd		branch 'trinidad' of git://github.com/sinatra/sinatra
+fb5b26403a61f75b281c953331c37b55af05603a		branch 'yard' of git://github.com/sinatra/sinatra
+72be291da2bf7a5e2dacf8b9119a258d8db53c43	not-for-merge	tag '0.0.1' of git://github.com/sinatra/sinatra
+4d8f19741ab78dfe1cf62eb929137d9544ec8a4b	not-for-merge	tag '0.1.0' of git://github.com/sinatra/sinatra
+2679e401ac408b5a1e90ea98a00a5b90bca0ae07	not-for-merge	tag '0.1.5' of git://github.com/sinatra/sinatra
+c489d67d1a6540c2f80c2beee8d435b170e93a75	not-for-merge	tag '0.1.6' of git://github.com/sinatra/sinatra
+64c77f55583db607cdb36c330bc445ffa7e05052	not-for-merge	tag '0.1.7' of git://github.com/sinatra/sinatra
+ca9ac7b5aeb3d5adc1a4c7fb86e21b0dc688e55b	not-for-merge	tag '0.2.0' of git://github.com/sinatra/sinatra
+886c5a413e01a9d412edb45ee26e63b7009e99f0	not-for-merge	tag '0.2.1' of git://github.com/sinatra/sinatra
+d7032a0c91ca962aee6f25dbf5d5c3228658a9f1	not-for-merge	tag '0.2.2' of git://github.com/sinatra/sinatra
+55221fc8c9737600320928387a995d65ada14710	not-for-merge	tag '0.3.0' of git://github.com/sinatra/sinatra
+c09025efc5c5e5aca8b26eb22d76ab0b7943ac49	not-for-merge	tag '0.3.1' of git://github.com/sinatra/sinatra
+cdf1abbadd80040d4a88041b50fa8c5cf891b871	not-for-merge	tag '0.3.2' of git://github.com/sinatra/sinatra
+4aefc7d024837e4a947fa978d621b4f019aeda1d	not-for-merge	tag '0.3.3' of git://github.com/sinatra/sinatra
+c8b3a20e8bd71cbcd831174c71331b391e964c18	not-for-merge	tag '0.9.0' of git://github.com/sinatra/sinatra
+611442f30f221a7f3db9a2009b19192d8a351386	not-for-merge	tag '0.9.0.1' of git://github.com/sinatra/sinatra
+5e3d80c3d1d2311741d55cdbba186484ebd7829c	not-for-merge	tag '0.9.0.2' of git://github.com/sinatra/sinatra
+455263a31a37df7b13f471fc30700371b2217b13	not-for-merge	tag '0.9.0.3' of git://github.com/sinatra/sinatra
+219728a964b5c9f0c7d15942f4f1c25ab6105d18	not-for-merge	tag '0.9.0.4' of git://github.com/sinatra/sinatra
+72c817a5620e74d0cdd2b7589762cc010b6e5750	not-for-merge	tag '0.9.0.5' of git://github.com/sinatra/sinatra
+01b1f4945e6e43aa670b7a68e6759fe1cb61b94a	not-for-merge	tag '0.9.1' of git://github.com/sinatra/sinatra
+0f02bafe86f8dd9bba9ab425468cb1067caa83ff	not-for-merge	tag '0.9.1.1' of git://github.com/sinatra/sinatra
+f49a515ebfc72bb8af65e6cf6712f0f8279cb6ce	not-for-merge	tag '0.9.2' of git://github.com/sinatra/sinatra
+798ca32d2410477774fe6e1576ebd6b5f7d8517e	not-for-merge	tag '0.9.3' of git://github.com/sinatra/sinatra
+e0ee682740d194e956a6936dcd89512944d891a3	not-for-merge	tag '0.9.4' of git://github.com/sinatra/sinatra
+22962c18906060b89d04d66abf12f093b21d3489	not-for-merge	tag '0.9.5' of git://github.com/sinatra/sinatra
+28a8c9f9d12dbb08a11a74a71161a51fc0d361c8	not-for-merge	tag '0.9.6' of git://github.com/sinatra/sinatra
+c496254f2be3d27bba238bf78c1c7376976eb924	not-for-merge	tag '1.0' of git://github.com/sinatra/sinatra
+e2c73bf1b036adb31853b2c92909eb447876d233	not-for-merge	tag '1.0.a' of git://github.com/sinatra/sinatra
+b6701db3faf1fba0bb5675e8a78385b618280fb2	not-for-merge	tag '1.0.b' of git://github.com/sinatra/sinatra
+a3a1e6520c6a5162b334ee289c413e445f776214	not-for-merge	tag '1.1.0' of git://github.com/sinatra/sinatra
+81d132652d680f0b6748c621259953b552cfa172	not-for-merge	tag '1.1.1' of git://github.com/sinatra/sinatra
+59136c4c028575a8a7e4393aa4678fe91d4e2421	not-for-merge	tag '1.1.2' of git://github.com/sinatra/sinatra
+e48c7aa07444c1f03c032f398c76f59fe588508b	not-for-merge	tag '1.1.3' of git://github.com/sinatra/sinatra
+a23ef271c1b5dbe393bc411cba0a421880fa3f34	not-for-merge	tag '1.1.4' of git://github.com/sinatra/sinatra
+b0090d32e32a049a82961014709b4043eab06be6	not-for-merge	tag '1.1.a' of git://github.com/sinatra/sinatra
+27ee37b40f39b849d37516d411b2fe4b34badc9b	not-for-merge	tag '1.1.b' of git://github.com/sinatra/sinatra
+a8f4b532008fe088653139392f302a73614e0f5c	not-for-merge	tag '1.2.0' of git://github.com/sinatra/sinatra
+e5d09bfd0723057812017ae417f0540b4db66172	not-for-merge	tag '1.2.0.a' of git://github.com/sinatra/sinatra
+1ee640c17a2be537d55e32597d1cb10017215a83	not-for-merge	tag '1.2.0.b' of git://github.com/sinatra/sinatra
+f4f749c9ce94e43297ed77b7ba1d441182e01397	not-for-merge	tag '1.2.0.c' of git://github.com/sinatra/sinatra
+64b815603235231457d3503cdcab530de7806aaf	not-for-merge	tag '1.2.0.d' of git://github.com/sinatra/sinatra
+273929c1cbd4e1541dcf447358fde75131954534	not-for-merge	tag '1.2.1' of git://github.com/sinatra/sinatra
+41db4fe4490aa5cabe68c8b4fd5750a792a388cf	not-for-merge	tag '1.2.2' of git://github.com/sinatra/sinatra
+738264f57fab07d46132b46d3b81c8771b486f3a	not-for-merge	tag '1.2.3' of git://github.com/sinatra/sinatra
+6f6a2f080cde9d7fd689d681020d362eefabfae8	not-for-merge	tag '1.2.4' of git://github.com/sinatra/sinatra
+7904475bc5ac9d7904e03b9b208e5b286b86d52d	not-for-merge	tag '1.2.5' of git://github.com/sinatra/sinatra
+6a7702e8d79961a6b0ee349de4f4522e90b11208	not-for-merge	tag '1.2.6' of git://github.com/sinatra/sinatra
+1d4a4255c3a8fe22e4cc1cb4659fba90b2e97edb	not-for-merge	tag '1.2.7' of git://github.com/sinatra/sinatra
+1446d0892e6d952992f76632572dd0b0b7ae6773	not-for-merge	tag '1.2.8' of git://github.com/sinatra/sinatra
+1843a801fb32a0bbb16267c37b8e14244ba9e855	not-for-merge	tag '1.2.9' of git://github.com/sinatra/sinatra
+0360926c4326f682b856a34886e00ef321a19ee7	not-for-merge	tag '1.3.0' of git://github.com/sinatra/sinatra
+ed4b097e74ae8d3fc1e8bd0e3077d5a97c46fe05	not-for-merge	tag '1.3.0.a' of git://github.com/sinatra/sinatra
+997d740a7a4f72ced77ba477cd987858d21429f1	not-for-merge	tag '1.3.0.b' of git://github.com/sinatra/sinatra
+b3fd8762ef0bf9aa235b89319342a7e1445e364b	not-for-merge	tag '1.3.0.c' of git://github.com/sinatra/sinatra
+09e5d48add545d5a956639ed0a3f7fce1b2e42a3	not-for-merge	tag '1.3.0.d' of git://github.com/sinatra/sinatra
+67b2f4e87e1ba519fbbf450bd8a1c8948ca456ef	not-for-merge	tag '1.3.0.e' of git://github.com/sinatra/sinatra
+8c6e53c17ecebb7f0fd246bb4fd3af79d4476608	not-for-merge	tag '1.3.0.f' of git://github.com/sinatra/sinatra
+0d2396f8a13accbba98241be63f82353f69c65b2	not-for-merge	tag '1.3.0.g' of git://github.com/sinatra/sinatra
+0b2f2ea43f4de6e172abb26e13fc71496897b12c	not-for-merge	tag '1.3.1' of git://github.com/sinatra/sinatra
+327a232a973e7959b8528ba428522af1638088a5	not-for-merge	tag '1.3.2' of git://github.com/sinatra/sinatra
+7a0380f71a5355bd2adac99b9aeea549660b1e47	not-for-merge	tag '1.3.3' of git://github.com/sinatra/sinatra
+112818c4b0c02b09c54b237e5ee63ca61f9148cd	not-for-merge	tag '1.3.4' of git://github.com/sinatra/sinatra
+db22572dfc3e4e7b390ef8d2752c36b2c0eb1832	not-for-merge	tag '1.3.5' of git://github.com/sinatra/sinatra
+6b653ac73a8d86398565fc771fe61d997916035e	not-for-merge	tag '1.3.6' of git://github.com/sinatra/sinatra
+bec39a0a75a656dc7ee570f96e8b2baad6a8ec91	not-for-merge	tag '1.4.0' of git://github.com/sinatra/sinatra
+a6725a0fcddc57aaeaee8902591b609b5d53946e	not-for-merge	tag '1.4.0.a' of git://github.com/sinatra/sinatra
+7df341d276f8497abe31ac60f40a0661099aa20b	not-for-merge	tag '1.4.0.b' of git://github.com/sinatra/sinatra
+83611f126f1674876b1caf40333d5bf46e717a9f	not-for-merge	tag '1.4.0.c' of git://github.com/sinatra/sinatra
+42f785aa240ff040c7c7d2447ce47e0f6b99a0a3	not-for-merge	tag '1.4.0.d' of git://github.com/sinatra/sinatra
+2600b17cdf7dae25de17b4993540fa2f49e43a1f	not-for-merge	tag '1.4.1' of git://github.com/sinatra/sinatra
+3e608b3b000dc05619b50b2e3dfcce3857c37b22	not-for-merge	tag '1.4.2' of git://github.com/sinatra/sinatra
+303daa5c76aba620062e3bfbeca32af02842c2c8	not-for-merge	tag '1.4.3' of git://github.com/sinatra/sinatra
+35caf56844f88dd6cee890faf9a94234d8855f05	not-for-merge	tag 'filter_pattern' of git://github.com/sinatra/sinatra
+9c6354ebb36051ef1ab5852c58984544d1dd5579	not-for-merge	tag 'semver' of git://github.com/sinatra/sinatra
+9ae6396a43e6cc74a5e9b82a28701289d94a533e	not-for-merge	tag 'v1.0.0' of git://github.com/sinatra/sinatra
+a0e3f87ae13674ca4a5b6547be187dc66ed5f150	not-for-merge	tag 'v1.1.0' of git://github.com/sinatra/sinatra
+c7deac693af62df7c7bfe8914c35086f2844d9ef	not-for-merge	tag 'v1.1.1' of git://github.com/sinatra/sinatra
+f4e99a90feaa80eeb5975ad82b376d5667fd4bc4	not-for-merge	tag 'v1.1.2' of git://github.com/sinatra/sinatra
+077ddb13c80d4e6d9c3c37dd383f27e436e4f0a7	not-for-merge	tag 'v1.1.3' of git://github.com/sinatra/sinatra
+2b1b2230da93875e3429cb13f373ab51706dbed9	not-for-merge	tag 'v1.1.4' of git://github.com/sinatra/sinatra
+37f1a093025e18a22a15b7887b1f050d8e5a2423	not-for-merge	tag 'v1.2.0' of git://github.com/sinatra/sinatra
+b9e917a7e50abb838b059e0f2c0cb13b4ee2b586	not-for-merge	tag 'v1.2.1' of git://github.com/sinatra/sinatra
+de3563116b5261887eba532a27de140351d6a364	not-for-merge	tag 'v1.2.2' of git://github.com/sinatra/sinatra
+433ae58d7d8a2de308ba4487709f9ac991aae72d	not-for-merge	tag 'v1.2.3' of git://github.com/sinatra/sinatra
+75b42ad519aa31e31117d9f4dacb86a9af1015f9	not-for-merge	tag 'v1.2.4' of git://github.com/sinatra/sinatra
+972fde6e0a637d5150791bf02d25878f4ac9b7e6	not-for-merge	tag 'v1.2.5' of git://github.com/sinatra/sinatra
+f226ceb33999df34bab797ef8655cf2cd0288a42	not-for-merge	tag 'v1.2.6' of git://github.com/sinatra/sinatra
+beb3d78627eef66412415d190ea249ef04459289	not-for-merge	tag 'v1.2.7' of git://github.com/sinatra/sinatra
+c0263e209488ea1e344457e33d573a616502aec0	not-for-merge	tag 'v1.2.8' of git://github.com/sinatra/sinatra
+86550eabe406293a5e971c1757bed6404a2c39de	not-for-merge	tag 'v1.2.9' of git://github.com/sinatra/sinatra
+83b35201d3e273f93558ea5310350abf23845d01	not-for-merge	tag 'v1.3.0' of git://github.com/sinatra/sinatra
+31a8351fe18563c5914f226572f086ccc032f831	not-for-merge	tag 'v1.3.0.a' of git://github.com/sinatra/sinatra
+0e8c8acbcf3d675ca744727e0a4cdc53be95182e	not-for-merge	tag 'v1.3.0.b' of git://github.com/sinatra/sinatra
+3b7854b904fee0088b558ade30b5c1e629b9ed3f	not-for-merge	tag 'v1.3.0.c' of git://github.com/sinatra/sinatra
+9b5f487093685a49b5cfef77d84495365954e597	not-for-merge	tag 'v1.3.0.d' of git://github.com/sinatra/sinatra
+3fc4a333ce942f9645cf561c09bbe25b09a27d5f	not-for-merge	tag 'v1.3.0.e' of git://github.com/sinatra/sinatra
+e07239e5534b16b60f9b5b033e37a8fa885cc45e	not-for-merge	tag 'v1.3.0.f' of git://github.com/sinatra/sinatra
+1d69b1732a44bc54ed048e873958ff7b827a6a54	not-for-merge	tag 'v1.3.0.g' of git://github.com/sinatra/sinatra
+4f8850a16337ab2fe4f90210d19ba4def2e60878	not-for-merge	tag 'v1.3.1' of git://github.com/sinatra/sinatra
+b39b9179a0cb16f4cc5f9925c901c87987696def	not-for-merge	tag 'v1.3.2' of git://github.com/sinatra/sinatra
+53505b63e784ecfab2f2869b314be458d77258d5	not-for-merge	tag 'v1.3.3' of git://github.com/sinatra/sinatra
+f442ee5eb262eb86b87ac2767d3e584e1773cf01	not-for-merge	tag 'v1.3.4' of git://github.com/sinatra/sinatra
+561238b68f14b781a58ea125675e3ef49a3f3f3d	not-for-merge	tag 'v1.3.5' of git://github.com/sinatra/sinatra
+3d88649439753de8cf733fd5ddaad3d54c0bcc47	not-for-merge	tag 'v1.3.6' of git://github.com/sinatra/sinatra
+e29c453dca261bf281bbb745582d69dbd5a58cd1	not-for-merge	tag 'v1.4.0' of git://github.com/sinatra/sinatra
+d9968dde125c1cb53c4a643769c720748d24b88a	not-for-merge	tag 'v1.4.0.a' of git://github.com/sinatra/sinatra
+a2aed23bc308d116e464b0855b250acf3f26d3c1	not-for-merge	tag 'v1.4.0.b' of git://github.com/sinatra/sinatra
+bb49729b07b04bc7495e8c71f8c5e3ad73db9253	not-for-merge	tag 'v1.4.0.c' of git://github.com/sinatra/sinatra
+bf567634062f8c65984e5cebf39f90eba8a63a2b	not-for-merge	tag 'v1.4.0.d' of git://github.com/sinatra/sinatra
+e2ffe1007c5477c9d72c7565f64de9fa2a9d2456	not-for-merge	tag 'v1.4.1' of git://github.com/sinatra/sinatra
+29284682af91162d363e0cfb5641189d715b26ad	not-for-merge	tag 'v1.4.2' of git://github.com/sinatra/sinatra
+1e1ed298c238166178f249b4e0a7bd1e598ef713	not-for-merge	tag 'v1.4.3' of git://github.com/sinatra/sinatra
+9f4827665a6ea91f6cb81bfdf7ca737e810040c4	not-for-merge	tag 'v1.4.4' of git://github.com/sinatra/sinatra
+fd9c7eac6829e88cef05e63fbe251289519d6be0	not-for-merge	tag 'v1.4.5' of git://github.com/sinatra/sinatra

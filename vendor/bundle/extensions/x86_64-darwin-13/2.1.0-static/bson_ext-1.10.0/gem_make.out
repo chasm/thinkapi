@@ -1,0 +1,18 @@
+/Users/aries/.rbenv/versions/2.1.1/bin/ruby extconf.rb 
+checking for asprintf()... yes
+checking for ruby/st.h... yes
+checking for ruby/regex.h... yes
+checking for ruby/encoding.h... yes
+creating Makefile
+
+make "DESTDIR=" clean
+
+make "DESTDIR="
+compiling bson_buffer.c
+compiling cbson.c
+compiling encoding_helpers.c
+linking shared-object bson_ext/cbson.bundle
+
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cbson.bundle ./.gem.20140513-38327-1fa36js/bson_ext
+installing default cbson libraries
